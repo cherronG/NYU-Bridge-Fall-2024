@@ -1,5 +1,5 @@
 # NYU Tandon Bridge Program Fall 2024 (28-week course)
-This repository documents my experience during the Bridge course at NYU Tandon, showcasing selected homework assignments. Skipped weeks were either exam (Weeks 6, 14, 21, and 28)  or catch-up (Weeks 13 and 27) weeks.
+This repository documents my experience during the Bridge course at NYU Tandon, showcasing some selected homework assignments. Skipped weeks were either exam (Weeks 6, 14, 21, and 28)  or catch-up (Weeks 13 and 27) weeks.
 
 ## Course Description
 The NYU Tandon Bridge program is an intensive, fully online course designed to prepare students without a technical background for STEM graduate programs. A curriculum typically requiring 3-4 semesters is condensed into a 21- or 28-week format. Taught by NYU Tandon Computer Science faculty, the program covers discrete math, data structures, algorithms, and operating systems through interactive modules, live webinars, assignments, and exams. Students should expect up to 100 hours of study, averaging 30-40 hours per week, with flexible scheduling and a required weekly online meeting. Upon completion, students earn a certificate that strengthens their master's application and grants a waiver for the application fee and GRE requirements.
