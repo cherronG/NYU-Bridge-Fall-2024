@@ -1,15 +1,15 @@
 # NYU Tandon Bridge Program Fall 2024 (28-week course)
-This repository documents my experience during the Bridge course at NYU Tandon, showcasing some selected homework assignments. Skipped weeks were either exam (Weeks 6, 14, 21, and 28)  or catch-up (Weeks 13 and 27) weeks.
+This repository serves as a comprehensive record of my academic journey through the NYU Tandon Bridge program, showcasing selected homework assignments and weekly progress. The repository covers 24 weeks of coursework, with gaps representing exam weeks (6, 14, 21, 28) and catch-up weeks (13, 27).
 
-## Course Description
-The NYU Tandon Bridge program is an intensive, fully online course designed to prepare students without a technical background for STEM graduate programs. A curriculum typically requiring 3-4 semesters is condensed into a 21- or 28-week format. Taught by NYU Tandon Computer Science faculty, the program covers discrete math, data structures, algorithms, and operating systems through interactive modules, live webinars, assignments, and exams. Students should expect up to 100 hours of study, averaging 30-40 hours per week, with flexible scheduling and a required weekly online meeting. Upon completion, students earn a certificate that strengthens their master's application and grants a waiver for the application fee and GRE requirements.
+## Program Description
+The NYU Tandon Bridge program is an intensive, fully online course designed to prepare students without a technical background for STEM graduate programs. This rigorous curriculum condenses what typically requires 3-4 semesters into a 28-week format. Taught by NYU Tandon Computer Science faculty, the program covers discrete math, data structures, algorithms, and operating systems through interactive modules, live webinars, assignments, and exams. Students should expect up to 100 hours of study, averaging 30-40 hours per week, with flexible scheduling and a required weekly online meeting. Upon completion, students earn a certificate that strengthens their master's application and grants a waiver for the application fee and GRE requirements.
 
-## Course Objectives
-- Basic understanding of data representation, how computers process and manipulate data to solve problems, and how to develop algorithms using decision-making, loops, and decomposition to solve problems
-- Proficiency in implementing, testing, and debugging moderately complex C++ programs using variables, operators, functions, and built-in data types
-- Basic understanding of basic object-oriented programming principles and the ability to work with fundamental data structures, including analyzing their performance and modifying them
-- Strong grasp of operating system concepts, including processes, threads, concurrency, deadlocks, and memory management
-- Solid foundation in discrete mathematics concepts
+## Program Objectives
+- **Algorithmic Thinking:** Understanding of data representation, computer processing, and algorithm development using decision-making, loops, and decomposition
+- **Programming Proficiency:** Ability to implement, test, and debug complex C++ programs using variables, operators, functions, and built-in data types
+- **Object-Oriented Programming:** Grasp of OOP principles and experience with fundamental data structures, including performance analysis
+- **Systems Knowledge:** Strong understanding of operating system concepts including processes, threads, concurrency, deadlocks, and memory management
+- **Mathematical Foundation:** Solid grounding in discrete mathematics concepts
 
 ## Course Topics
 - **Computer Science Fundamentals:** coding functions, abstraction, runtime stack, compilation, execution process, data types, expressions, branching statements, iterative statements, recursion
@@ -21,8 +21,14 @@ The NYU Tandon Bridge program is an intensive, fully online course designed to p
 
 ## Repository Contents 
 This repository contains:
-- summary of topics and objectives learned each week during the program
-- selected weekly homework assignments
+- Weekly topic summaries and learning objectives
+- Selected homework assignments demonstrating key concepts
+- Code implementations in C++
+  
+Each week's folder contains:
+- **README.md** - Week overview and topics covered
+- **Assignments** - Homework problems and solutions
+- **Code** - Implementation files with comments 
 
 ---
 _Program Dates: September 2, 2024 - March 30, 2025_
