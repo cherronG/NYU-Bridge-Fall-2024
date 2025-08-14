@@ -11,7 +11,7 @@ The NYU Tandon Bridge program is an intensive, fully online course designed to p
 - **Systems Knowledge:** Strong understanding of operating system concepts including processes, threads, concurrency, deadlocks, and memory management
 - **Mathematical Foundation:** Solid grounding in discrete mathematics concepts
 
-## Course Topics
+## Program Topics
 - **Computer Science Fundamentals:** coding functions, abstraction, runtime stack, compilation, execution process, data types, expressions, branching statements, iterative statements, recursion
 - **Programming and Data Structures:** arrays, strings, pointers, dynamic allocation, linked lists, stacks, queues, trees, binary search trees, searching, sorting, object-oriented programming concepts
 - **Mathematics and Logic:** discrete probability, induction, introduction to counting, logic, mathematical functions, number systems, proofs, sets
