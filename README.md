@@ -25,6 +25,6 @@ This repository contains:
 - selected weekly homework assignments
 
 ---
-_Program Dates: September 2, 2024 - March 30, 2024_
+_Program Dates: September 2, 2024 - March 30, 2025_
 
 _Institution: Tandon School of Engineering, New York University_
