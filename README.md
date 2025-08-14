@@ -18,3 +18,13 @@ The NYU Tandon Bridge program is an intensive, fully online course designed to p
 - **Operating Systems and Computer Architecture:** fundamentals of system hardware, intro to OS concepts, memory management, processes, threads, thread concurrency, deadlocks
 - **Networking and Communication:** introduction to networking, physical layout of networks, overview of OSI/RM, application layer, network layer, transport layer
 - **File and System Processing:** file processing, intro to algorithm analysis, order of growth
+
+## Repository Contents 
+This repository contains:
+- summary of topics and objectives learned each week during the program
+- selected weekly homework assignments
+
+---
+_Program Dates: September 2, 2024 - March 30, 2024_
+
+_Institution: Tandon School of Engineering, New York University_
